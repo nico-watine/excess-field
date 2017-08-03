@@ -1,0 +1,9 @@
+Typography styles fully set up.
+
+Includes:
+-Body Typography
+-Headers Typography
+
+All type styles based on my zurb-f6-boilerplate basics, which is built on Zurb's Foundation 6
+
+Currently all fonts are set to a standard "Arial" font stack

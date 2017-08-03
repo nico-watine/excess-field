@@ -38,6 +38,30 @@
 		"oAP": "\/_ignores\/excess-field.sublime-workspace",
 		"oF": 0
 		},
+	"\/css\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/style-min.css",
+		"oF": 0,
+		"oS": 1
+		},
+	"\/fusionSettings\/03-08-2017\/1\/_notes.txt": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fusionSettings\/03-08-2017\/1\/_notes.txt",
+		"oF": 0
+		},
+	"\/fusionSettings\/03-08-2017\/1\/fusion_options_backup_03-08-2017.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fusionSettings\/03-08-2017\/1\/fusion_options_backup_03-08-2017-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"\/README.md": {
 		"cS": 0,
 		"eF": 1,
