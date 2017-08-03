@@ -1,2 +1,2 @@
 # excess-field
-Repo for excessfield.com site
+Site built on Avada Wordpress theme. This repo tracks custom edits done to the theme files.
