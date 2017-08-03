@@ -1,0 +1,5 @@
+Secondary Header styled with custom background image
+
+Menu text styles specified
+
+(Includes all previous edits)
