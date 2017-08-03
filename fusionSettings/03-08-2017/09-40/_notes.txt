@@ -1,5 +1,7 @@
-Header / Header Content basic setups
+Header / Header Content  AND Logo basic setups
 
 Chose Header Layout and content
 
 Currently says "Fall Show Upcoming" on left and on right will be Instagram and other social media links
+
+Specified new (temporary) logo, including a retina version
