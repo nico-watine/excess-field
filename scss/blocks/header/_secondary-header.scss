@@ -1,8 +1,9 @@
 @import "../../_settings.scss";
 
 .fusion-secondary-header {
-	color: #fff;
+	text-shadow: 0 1px 10px #000;
 	font-weight: bold;
-	font-size: 14px;
+	letter-spacing: 0.3px;
 	background: #cf5729 url('/wp-content/uploads/2017/08/fusion-secondary-header-1.jpg') center top/cover no-repeat;
 }
+
