@@ -8,11 +8,11 @@
   color: #2e3091;
 }
 
-.blockImage {
+.indexPage.blockImage {
   position: relative;
 }
 
-.blockImage .caption {
+.indexPage.blockImage .caption {
   font-weight: 400;
   color: #fff;
   position: absolute;
@@ -25,7 +25,7 @@
   min-height: 56px;
 }
 
-.blockImage .scrim {
+.indexPage.blockImage .scrim {
   position: absolute;
   height: 100%;
   width: 100%;
