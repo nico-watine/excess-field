@@ -96,6 +96,20 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/fusionSettings\/04-08-2017\/12-00\/_notes.txt": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fusionSettings\/04-08-2017\/12-00\/_notes.txt",
+		"oF": 0
+		},
+	"\/fusionSettings\/04-08-2017\/12-00\/fusion_options_backup_04-08-2017.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fusionSettings\/04-08-2017\/12-00\/fusion_options_backup_04-08-2017-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"\/README.md": {
 		"cS": 0,
 		"eF": 1,

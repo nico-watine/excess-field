@@ -1,0 +1,4 @@
+Site Typography set (with Roboto)
+Header style set
+SMM (Instagram) added to secondary-header and footer (in copyright section)
+Up-to-date style.css
