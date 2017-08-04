@@ -1,4 +1,8 @@
 @import url("https://fonts.googleapis.com/css?family=Anton");
+#social_links-widget-5 {
+  text-align: right;
+}
+
 .fusion-copyright-notice {
   text-transform: uppercase;
   letter-spacing: 1px;

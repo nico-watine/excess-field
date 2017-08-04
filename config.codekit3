@@ -96,6 +96,20 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/fusionSettings\/04-08-2017\/06-10\/_notes.txt": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/fusionSettings\/04-08-2017\/06-10\/_notes.txt",
+		"oF": 0
+		},
+	"\/fusionSettings\/04-08-2017\/06-10\/fusion_options_backup_04-08-2017.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fusionSettings\/04-08-2017\/06-10\/fusion_options_backup_04-08-2017-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"\/fusionSettings\/04-08-2017\/12-00\/_notes.txt": {
 		"ft": 8192,
 		"oA": 1,
@@ -163,6 +177,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/scss\/blocks\/css\/_footer.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/blocks\/footer\/_widget-area.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/blocks\/css\/_widget-area.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
