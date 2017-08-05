@@ -285,6 +285,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/scss\/snippets\/html\/vendors\/_vendors.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/snippets\/html\/css\/_vendors.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/scss\/style.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -302,6 +315,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/snippets\/html\/index\/blockImage.html",
+		"oF": 0
+		},
+	"\/snippets\/html\/vendors\/vendorBlock.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/snippets\/html\/vendors\/vendorBlock.html",
 		"oF": 0
 		}
 	},
