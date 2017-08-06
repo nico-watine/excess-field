@@ -138,6 +138,12 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/htaccess\/beta\/1\/.htaccess": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/htaccess\/beta\/1\/.htaccess",
+		"oF": 0
+		},
 	"\/htaccess\/stock\/.htaccess": {
 		"ft": 8192,
 		"oA": 2,
