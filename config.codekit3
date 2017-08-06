@@ -144,6 +144,12 @@
 		"oAP": "\/htaccess\/beta\/1\/.htaccess",
 		"oF": 0
 		},
+	"\/htaccess\/beta\/https\/.htaccess": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/htaccess\/beta\/https\/.htaccess",
+		"oF": 0
+		},
 	"\/htaccess\/stock\/.htaccess": {
 		"ft": 8192,
 		"oA": 2,
