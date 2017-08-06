@@ -138,6 +138,18 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/htaccess\/stock\/.htaccess": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/htaccess\/stock\/.htaccess",
+		"oF": 0
+		},
+	"\/htaccess\/tacupra-copy\/.htaccess": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/htaccess\/tacupra-copy\/.htaccess",
+		"oF": 0
+		},
 	"\/README.md": {
 		"cS": 0,
 		"eF": 1,
