@@ -187,7 +187,7 @@
 		"uCM": 0
 		},
 	"\/scss\/_settings.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -200,7 +200,7 @@
 		"uL": 1
 		},
 	"\/scss\/blocks\/footer\/_copyright-area.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -213,7 +213,7 @@
 		"uL": 1
 		},
 	"\/scss\/blocks\/footer\/_footer.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -226,7 +226,7 @@
 		"uL": 1
 		},
 	"\/scss\/blocks\/footer\/_widget-area.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -239,7 +239,7 @@
 		"uL": 1
 		},
 	"\/scss\/blocks\/header\/_header.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -252,7 +252,7 @@
 		"uL": 1
 		},
 	"\/scss\/blocks\/header\/_secondary-header.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -265,7 +265,7 @@
 		"uL": 1
 		},
 	"\/scss\/components\/typography\/_fonts.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -278,7 +278,7 @@
 		"uL": 1
 		},
 	"\/scss\/components\/typography\/_typography.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -291,7 +291,7 @@
 		"uL": 1
 		},
 	"\/scss\/snippets\/html\/index\/_blockImage.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -304,7 +304,7 @@
 		"uL": 1
 		},
 	"\/scss\/snippets\/html\/index\/_index.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -317,7 +317,7 @@
 		"uL": 1
 		},
 	"\/scss\/snippets\/html\/index\/_proseBlocks.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -330,7 +330,7 @@
 		"uL": 1
 		},
 	"\/scss\/snippets\/html\/index\/_showDate-banner.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -343,7 +343,7 @@
 		"uL": 1
 		},
 	"\/scss\/snippets\/html\/vendors\/_vendors.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -356,7 +356,7 @@
 		"uL": 1
 		},
 	"\/scss\/style.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -396,7 +396,7 @@
 	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
-	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1, ie <= 11",
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
@@ -2263,7 +2263,7 @@
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
 		},
