@@ -1,3 +1,14 @@
 @import "../../_settings.scss";
 
 @import "_secondary-header.scss";
+
+// Default Header Shadow
+.fusion-header-shadow .fusion-mobile-menu-design-modern {
+	box-shadow: $z-2;
+}
+
+
+// Header Shadow On Scroll 
+.fusion-is-sticky .fusion-header-v3 .fusion-sticky-shadow {
+	box-shadow: $z-1;
+}
