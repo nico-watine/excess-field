@@ -374,6 +374,12 @@
 		"oAP": "\/snippets\/html\/index\/blockImage.html",
 		"oF": 0
 		},
+	"\/snippets\/html\/location\/blockImage.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/snippets\/html\/location\/blockImage.html",
+		"oF": 0
+		},
 	"\/snippets\/html\/vendors\/vendorBlock.html": {
 		"ft": 8192,
 		"oA": 2,
