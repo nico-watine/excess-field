@@ -1,4 +1,3 @@
-@import url("https://fonts.googleapis.com/css?family=Anton");
 #social_links-widget-5 {
   text-align: right;
 }
@@ -10,7 +9,7 @@
 }
 
 .anton {
-  font-family: "Anton", sans-serif !important;
+  font-family: "Anton", Roboto, Arial, Helvetica, sans-serif !important;
   letter-spacing: 0.5px !important;
 }
 
