@@ -16,15 +16,21 @@ change "excess" to include dot
 # |            Excess Spelling            |
 # -----------------------------------------
 
+1
 excess
 
+2
 Excess
 
+3
 ExCess
 
+4
 ex•cess
 
+5
 Ex•cess
 
+6
 Ex•Cess
 
