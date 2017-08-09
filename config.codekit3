@@ -400,10 +400,10 @@
 		"oAP": "\/snippets\/html\/location\/blockImage.html",
 		"oF": 0
 		},
-	"\/snippets\/html\/vendors\/vendorBlock.html": {
+	"\/snippets\/html\/vendors\/pageHeroBanner.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/snippets\/html\/vendors\/vendorBlock.html",
+		"oAP": "\/snippets\/html\/vendors\/pageHeroBanner.html",
 		"oF": 0
 		}
 	},
