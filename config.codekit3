@@ -400,6 +400,12 @@
 		"oAP": "\/snippets\/html\/location\/blockImage.html",
 		"oF": 0
 		},
+	"\/snippets\/html\/vendors\/pageBodyContent.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/snippets\/html\/vendors\/pageBodyContent.html",
+		"oF": 0
+		},
 	"\/snippets\/html\/vendors\/pageHeroBanner.html": {
 		"ft": 8192,
 		"oA": 2,
