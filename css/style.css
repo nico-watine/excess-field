@@ -16,6 +16,16 @@
   }
 }
 
+#menu-widget-2 > .fusion-widget-menu ul {
+  text-align: center !important;
+}
+
+@media only screen and (min-width: 640px) {
+  #menu-widget-2 > .fusion-widget-menu ul {
+    text-align: left !important;
+  }
+}
+
 .fusion-copyright-notice {
   text-transform: uppercase;
   letter-spacing: 1px;

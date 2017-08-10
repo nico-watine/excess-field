@@ -9,3 +9,12 @@ $min-640: "only screen and (min-width : 640px)";
 		text-align: right;
 	}
 }
+
+
+#menu-widget-2 > .fusion-widget-menu ul {
+	text-align: center !important;
+
+	@media #{$min-640} {
+		text-align: left !important;
+	}
+}
