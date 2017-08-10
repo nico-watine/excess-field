@@ -53,30 +53,6 @@
   text-align: center;
 }
 
-.indexPage.blockImage {
-  position: relative;
-}
-
-.indexPage.blockImage .caption {
-  font-weight: 400;
-  color: #fff;
-  position: absolute;
-  bottom: 0;
-  z-index: 10;
-  margin-bottom: 20px;
-  width: 100%;
-  text-align: center;
-  padding: 0 15px;
-  min-height: 56px;
-}
-
-.indexPage.blockImage .scrim {
-  position: absolute;
-  height: 100%;
-  width: 100%;
-  background-image: linear-gradient(-180deg, transparent 60%, #000 100%);
-}
-
 .indexPage.showDate-banner {
   background: linear-gradient(rgba(46, 48, 145, 0.4), rgba(46, 48, 145, 0.4)), url(https://excessfield.com/wp-content/uploads/2017/08/woodTexture-whiteHorizontalPlanks.jpg) 50%/cover no-repeat;
 }
