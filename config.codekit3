@@ -278,6 +278,32 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/scss\/blocks\/main\/_blockImage.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/blocks\/css\/_blockImage.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/blocks\/main\/_main.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/blocks\/css\/_main.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/scss\/components\/typography\/_fonts.scss": {
 		"aP": 1,
 		"bl": 0,
