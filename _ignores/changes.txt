@@ -3,8 +3,6 @@
 make instgram link more prominent
 
 
-change photo of element pumps bc pumps down below
-
 
 # -----------------------------------------
 # |            Excess Spelling            |
