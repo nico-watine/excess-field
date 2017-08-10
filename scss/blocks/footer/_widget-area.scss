@@ -1,5 +1,11 @@
 @import "../../_settings.scss";
 
+$min-640: "only screen and (min-width : 640px)";
+
 #social_links-widget-5 {
-	text-align: right;
+	text-align: center;
+
+	@media #{$min-640} {
+		text-align: right;
+	}
 }
