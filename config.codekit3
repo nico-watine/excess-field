@@ -330,7 +330,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/snippets\/html\/index\/_index.scss": {
+	"\/scss\/pages\/index\/_index.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -338,12 +338,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/snippets\/html\/css\/_index.css",
+		"oAP": "\/scss\/pages\/css\/_index.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/snippets\/html\/index\/_proseBlocks.scss": {
+	"\/scss\/pages\/index\/_proseBlocks.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -351,12 +351,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/snippets\/html\/css\/_proseBlocks.css",
+		"oAP": "\/scss\/pages\/css\/_proseBlocks.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/snippets\/html\/index\/_showDate-banner.scss": {
+	"\/scss\/pages\/index\/_showDate-banner.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -364,12 +364,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/snippets\/html\/css\/_showDate-banner.css",
+		"oAP": "\/scss\/pages\/css\/_showDate-banner.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/snippets\/html\/vendors\/_vendors.scss": {
+	"\/scss\/pages\/vendors\/_vendors.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -377,7 +377,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/snippets\/html\/css\/_vendors.css",
+		"oAP": "\/scss\/pages\/css\/_vendors.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
