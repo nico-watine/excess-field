@@ -78,6 +78,6 @@
 }
 
 .vendorTitle {
-  font-weight: bold;
+  font-weight: bold !important;
   display: inline-block;
 }
