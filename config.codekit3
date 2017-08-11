@@ -158,6 +158,14 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/fusionSettings\/11-08-2017\/10-31\/fusion_options_backup_11-08-2017.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/fusionSettings\/11-08-2017\/10-31\/fusion_options_backup_11-08-2017-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"\/htaccess\/beta\/1\/.htaccess": {
 		"ft": 8192,
 		"oA": 2,
