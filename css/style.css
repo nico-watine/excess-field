@@ -1,9 +1,11 @@
 .fusion-header-shadow .fusion-mobile-menu-design-modern {
-  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3);
+          box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3);
 }
 
 .fusion-is-sticky .fusion-header-v3 .fusion-sticky-shadow {
-  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
+  -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
+          box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
 }
 
 #social_links-widget-5 {
@@ -26,10 +28,21 @@
   }
 }
 
-.fusion-copyright-notice {
+.fusion-copyright-notice a {
+  font-size: 12px;
   text-transform: uppercase;
-  letter-spacing: 1px;
+  letter-spacing: 1.5px;
   font-weight: 300 !important;
+  color: #fff;
+  text-decoration: none;
+}
+
+.fusion-copyright-notice a span {
+  text-decoration: underline;
+}
+
+.fusion-copyright-notice a:hover {
+  text-decoration: underline;
 }
 
 .blockImage {
@@ -53,6 +66,7 @@
   position: absolute;
   height: 100%;
   width: 100%;
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(60%, transparent), to(#000));
   background-image: linear-gradient(-180deg, transparent 60%, #000 100%);
 }
 
@@ -70,10 +84,12 @@
 }
 
 .indexPage.showDate-banner {
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(46, 48, 145, 0.4)), to(rgba(46, 48, 145, 0.4))), url(https://excessfield.com/wp-content/uploads/2017/08/woodTexture-whiteHorizontalPlanks.jpg) 50%/cover no-repeat;
   background: linear-gradient(rgba(46, 48, 145, 0.4), rgba(46, 48, 145, 0.4)), url(https://excessfield.com/wp-content/uploads/2017/08/woodTexture-whiteHorizontalPlanks.jpg) 50%/cover no-repeat;
 }
 
 .indexPage.proseBlock-vendorLink {
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0.65)), to(rgba(255, 255, 255, 0.65))), url(https://excessfield.com/wp-content/uploads/2017/08/woodTexture-whiteVerticalPlanks.jpg) 50%/cover no-repeat;
   background: linear-gradient(rgba(255, 255, 255, 0.65), rgba(255, 255, 255, 0.65)), url(https://excessfield.com/wp-content/uploads/2017/08/woodTexture-whiteVerticalPlanks.jpg) 50%/cover no-repeat;
 }
 
