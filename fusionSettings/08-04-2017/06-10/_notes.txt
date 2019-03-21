@@ -1,3 +1,0 @@
-Updates include <footer> settings
-
-Such as copyright text, styles, horizontal page menu and social icon
