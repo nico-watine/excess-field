@@ -36,6 +36,14 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/_ignores/covid-letter.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_ignores/covid-letter.txt",
+		"oF": 0
+		},
 	"/_ignores/excess-field.sublime-project": {
 		"cB": 0,
 		"ft": 8192,
