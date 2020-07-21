@@ -86,38 +86,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"/htaccess/beta/1/.htaccess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/htaccess/beta/1/.htaccess",
-		"oF": 0
-		},
-	"/htaccess/beta/https/.htaccess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/htaccess/beta/https/.htaccess",
-		"oF": 0
-		},
-	"/htaccess/stock/.htaccess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/htaccess/stock/.htaccess",
-		"oF": 0
-		},
-	"/htaccess/tacupra-copy/.htaccess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/htaccess/tacupra-copy/.htaccess",
-		"oF": 0
-		},
 	"/README.md": {
 		"cB": 0,
 		"cS": 0,
