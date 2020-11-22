@@ -11,7 +11,12 @@ function avada_lang_setup() {
 }
 add_action( 'after_setup_theme', 'avada_lang_setup' );
 
-// Custom function Additions
+
+// Be sure Avada JS Compiler is functioning
+add_filter( 'fusion_compiler_js_file_is_readable', '__return_true' );
+
+
+// Slim down <head> requests
 remove_action('wp_head', 'rsd_link');
 remove_action('wp_head', 'wp_generator');
 remove_action('wp_head', 'wlwmanifest_link');
@@ -32,6 +37,7 @@ remove_action('wp_head', 'feed_links_extra', 3);
 remove_action('rest_api_init', 'wp_oembed_register_route');
 remove_action('wp_print_styles', 'print_emoji_styles');
 
+
 //Remove JQuery migrate
 function remove_jquery_migrate($scripts)
 {
@@ -47,6 +53,7 @@ function remove_jquery_migrate($scripts)
 }
 add_action('wp_default_scripts', 'remove_jquery_migrate');
 
+
 // Fully Disable Gutenberg editor.
 add_filter('use_block_editor_for_post_type', '__return_false', 10);
 // Don't load Gutenberg-related stylesheets.
@@ -58,7 +65,6 @@ function remove_block_css() {
 	wp_dequeue_style( 'storefront-gutenberg-blocks' ); // Storefront theme
 }
 
-add_filter( 'fusion_compiler_js_file_is_readable', '__return_true' );
 
 // Add Custom CSS to Admin Area
 add_action('admin_head', 'custom_dashboard_css');
